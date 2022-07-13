@@ -1,0 +1,2 @@
+# mynewrepo
+To understand repository
